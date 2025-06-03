@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mukesh360
+- 👋 Hi, I’m mukesh360
 
 <!---
 mukesh360/mukesh360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
