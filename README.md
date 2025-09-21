@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">I'm  Mukesh Kumar R<br>Tech Explorer | 🐞 Bug Creator !</h5>
+<h2 align="left">I'm  Mukesh Kumar R<br>Tech Explorer | 🐞 Bug Creator !</h2>
 
 ###
 
